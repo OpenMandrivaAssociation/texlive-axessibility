@@ -1,6 +1,6 @@
 Name:		texlive-axessibility
 Version:	57105
-Release:	1
+Release:	2
 Summary:	Access to formulas in PDF files by assistive technologies
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/axessibility
