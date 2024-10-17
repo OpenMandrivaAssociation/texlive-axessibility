@@ -3,7 +3,7 @@ Version:	57105
 Release:	2
 Summary:	Access to formulas in PDF files by assistive technologies
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/axessibility
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/axessibility
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/axessibility.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/axessibility.doc.r%{version}.tar.xz
